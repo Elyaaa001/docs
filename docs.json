@@ -58,8 +58,8 @@
 
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "https://ocdn-storage.s3.us-west-2.amazonaws.com/media/pms_logos/logonew.png"
+    "light": "https://ocdn-storage.s3.us-west-2.amazonaws.com/media/pms_logos/logonew.png",
+    "dark": "https://ocdn-storage.s3.us-west-2.amazonaws.com/media/pms_logos/logowhite.png"
   },
 
   "footer": {
